@@ -1,2 +1,2 @@
-# proyectos
-Proyectos desarrollados durante cursos y personales
+# projects
+Personal projects or developed during courses / Proyectos desarrollados durante cursos o personales
